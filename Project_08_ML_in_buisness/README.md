@@ -21,6 +21,7 @@
 - NumPy
 - Matplotlib
 - Sklearn
+- Bootstrap
 
 ### Общий вывод
 
